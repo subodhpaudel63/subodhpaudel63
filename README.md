@@ -1,19 +1,8 @@
-<h1 align="center">
-  <a href="#" style="text-decoration:none;">
-    <span style="color:#ff4b4b; font-family: 'Poppins', sans-serif; animation: fadeIn 2s ease-in-out infinite alternate;">
-      👋 Hi, I'm <span style="color:#ff0000;">Subodh Paudel</span>
-    </span>
-  </a>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Subodh+Paudel;Full+Stack+Web+Developer;PHP+%7C+SQL+%7C+JavaScript+Enthusiast" alt="Typing SVG" />
+</p>
 
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0.3; transform: scale(0.95); }
-  100% { opacity: 1; transform: scale(1.05); }
-}
-</style>
-
-
+<h3 align="center">💻 Full Stack Web Developer | PHP, SQL & JS Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subodh-paudel-580b322a7/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -21,12 +10,17 @@
   <a href="https://www.facebook.com/subodh.paudel.779"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subodhpaudel63&label=Profile%20Views&color=ff0000&style=for-the-badge" alt="Profile views counter"/>
+</p>
+
 ---
 
 ### 🧠 About Me  
 🌱 I’m currently working on **Restaurant & Hotel Management Systems** using PHP + SQL.  
 💡 Passionate about **web development**, clean UI, and backend logic.  
-🚀 Always learning and improving my **full-stack skills**.
+🚀 Always learning and improving my **full-stack skills**.  
+⚡ Fun fact: I love building projects that blend **design + logic** perfectly.
 
 ---
 
@@ -74,5 +68,6 @@
 ---
 
 ⭐ **"Code. Create. Connect."**
+
 
 
