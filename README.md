@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Subodh+Paudel;Full+Stack+Web+Developer;PHP+%7C+SQL+%7C+JavaScript+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="center">💻 Full Stack Web Developer | PHP, SQL & JS Enthusiast</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subodh-paudel-580b322a7/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
