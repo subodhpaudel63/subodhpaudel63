@@ -16,9 +16,8 @@
 
 ---
 
-### 🧠 About Me  
-🌱 I’m currently working on **Restaurant & Hotel Management Systems** using PHP + SQL.  
-💡 Passionate about **web development**, clean UI, and backend logic.  
+
+💡 Passionate about Learning new skill and building rapport, Building new connections.  
 🚀 Always learning and improving my **full-stack skills**.  
 ⚡ Fun fact: I love building projects that blend **design + logic** perfectly.
 
