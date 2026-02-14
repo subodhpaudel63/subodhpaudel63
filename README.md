@@ -1,18 +1,43 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Subodh+Paudel;From+Pokhara+Nepal" alt="Typing SVG" />
-</p>
+<div align="center">
+
+#  Welcome to Subodh's Code Universe! 🌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Subodh!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%9A%80;AI+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=subodhpaudel63&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/followers/subodhpaudel63?style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/stars/subodhpaudel63?style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</div>
 
 
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/subodh-paudel-580b322a7/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/subodh_543/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/subodh.paudel.779"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-</p>
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subodhpaudel63&label=Profile%20Views&color=ff0000&style=for-the-badge" alt="Profile views counter"/>
-</p>
+```javascript
+const subodh = {
+  location: "Nepal 🇳🇵",
+  role: "Student & Full-Stack Developer",
+  stack: ["HTML", "CSS", "JavaScript", "PHP", "SQL"],
+  currentFocus: "Building strong full-stack fundamentals",
+  nextGoal: "Master modern JavaScript frameworks",
+  funFact: "I debug with console.log() and I enjoy it 😄"
+};
+```
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/subodh_543)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
+
+</div>
 
 ---
 
@@ -67,6 +92,19 @@
 ---
 
 ⭐ **"Code. Create. Connect."**
+<div align="center">
 
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**🚀 Thanks for visiting! Happy coding!** 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
 
 
