@@ -109,4 +109,19 @@ const subodh = {
 
 </div>
 
+<style>
+html {
+  scroll-behavior: smooth;
+}
+
+.tech-icons img {
+  margin: 0 6px;
+  transition: transform 0.3s ease;
+}
+
+.tech-icons img:hover {
+  transform: translateY(-4px);
+}
+</style>
+
 
