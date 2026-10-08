@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 64"
+     width="1200"
+     height="64"
+     role="img"
+     aria-label="Strand of Himalayan prayer flags swaying in the wind">
+
+  <style>
+    .fl {
+      transform-box: fill-box;
+      transform-origin: 50% 0;
+      animation: sway 3.4s ease-in-out infinite;
+    }
+
+    @keyframes sway {
+      0%,100% {
+        transform: skewX(-8deg);
+      }
+
+      50% {
+        transform: skewX(8deg) scaleY(.95);
+      }
+    }
+
+    @media (prefers-reduced-motion:reduce) {
+      .fl {
+        animation: none;
+      }
+    }
+  </style>
+
+  <!-- Rope -->
+  <path d="M0,10 Q600,38 1200,10"
+        fill="none"
+        stroke="#94A3B8"
+        stroke-width="1.6"
+        stroke-linecap="round"
+        opacity=".85"/>
+
+  <!-- Flags -->
+  <polygon class="fl"
+           points="21,10.96 51,12.28 51,34.28 21,32.96"
+           fill="#3B82F6"
+           style="animation-delay:-0.00s"/>
+
+  <polygon class="fl"
+           points="63,12.79 93,14.00 93,36.00 63,34.79"
+           fill="#F8FAFC"
+           stroke="#CBD5E1"
+           stroke-width=".8"
+           style="animation-delay:-0.27s"/>
+
+  <polygon class="fl"
+           points="105,14.47 135,15.59 135,37.59 105,36.47"
+           fill="#EF4444"
+           style="animation-delay:-0.54s"/>
+
+  <polygon class="fl"
+           points="147,16.02 177,17.04 177,39.04 147,38.02"
+           fill="#22C55E"
+           style="animation-delay:-0.81s"/>
+
+  <polygon class="fl"
+           points="189,17.43 219,18.35 219,40.35 189,39.43"
+           fill="#FACC15"
+           style="animation-delay:-1.08s"/>
+
+  <polygon class="fl"
+           points="231,18.70 261,19.53 261,41.53 231,40.70"
+           fill="#3B82F6"
+           style="animation-delay:-1.35s"/>
+
+  <polygon class="fl"
+           points="273,19.84 303,20.57 303,42.57 273,41.84"
+           fill="#F8FAFC"
+           stroke="#CBD5E1"
+           stroke-width=".8"
+           style="animation-delay:-1.62s"/>
+
+  <polygon class="fl"
+           points="315,20.84 345,21.47 345,43.47 315,42.84"
+           fill="#EF4444"
+           style="animation-delay:-1.89s"/>
+
+  <polygon class="fl"
+           points="357,21.70 387,22.24 387,44.24 357,43.70"
+           fill="#22C55E"
+           style="animation-delay:-2.16s"/>
+
+  <polygon class="fl"
+           points="399,22.43 429,22.86 429,44.86 399,44.43"
+           fill="#FACC15"
+           style="animation-delay:-2.43s"/>
+
+  <polygon class="fl"
+           points="441,23.02 471,23.35 471,45.35 441,45.02"
+           fill="#3B82F6"
+           style="animation-delay:-2.70s"/>
+
+  <polygon class="fl"
+           points="483,23.47 513,23.71 513,45.71 483,45.47"
+           fill="#F8FAFC"
+           stroke="#CBD5E1"
+           stroke-width=".8"
+           style="animation-delay:-2.97s"/>
+
+  <polygon class="fl"
+           points="525,23.78 555,23.92 555,45.92 525,45.78"
+           fill="#EF4444"
+           style="animation-delay:-3.24s"/>
+
+  <polygon class="fl"
+           points="567,23.96 597,24.00 597,46.00 567,45.96"
+           fill="#22C55E"
+           style="animation-delay:-0.11s"/>
+
+  <polygon class="fl"
+           points="609,24.00 639,23.94 639,45.94 609,46.00"
+           fill="#FACC15"
+           style="animation-delay:-0.38s"/>
+
+  <polygon class="fl"
+           points="651,23.90 681,23.74 681,45.74 651,45.90"
+           fill="#3B82F6"
+           style="animation-delay:-0.65s"/>
+
+  <polygon class="fl"
+           points="693,23.66 723,23.41 723,45.41 693,45.66"
+           fill="#F8FAFC"
+           stroke="#CBD5E1"
+           stroke-width=".8"
+           style="animation-delay:-0.92s"/>
+
+  <polygon class="fl"
+           points="735,23.29 765,22.94 765,44.94 735,45.29"
+           fill="#EF4444"
+           style="animation-delay:-1.19s"/>
+
+  <polygon class="fl"
+           points="777,22.78 807,22.33 807,44.33 777,44.78"
+           fill="#22C55E"
+           style="animation-delay:-1.46s"/>
+
+  <polygon class="fl"
+           points="819,22.13 849,21.59 849,43.59 819,44.13"
+           fill="#FACC15"
+           style="animation-delay:-1.73s"/>
+
+  <polygon class="fl"
+           points="861,21.35 891,20.71 891,42.71 861,43.35"
+           fill="#3B82F6"
+           style="animation-delay:-2.00s"/>
+
+  <polygon class="fl"
+           points="903,20.43 933,19.69 933,41.69 903,42.43"
+           fill="#F8FAFC"
+           stroke="#CBD5E1"
+           stroke-width=".8"
+           style="animation-delay:-2.27s"/>
+
+  <polygon class="fl"
+           points="945,19.37 975,18.53 975,40.53 945,41.37"
+           fill="#EF4444"
+           style="animation-delay:-2.54s"/>
+
+  <polygon class="fl"
+           points="987,18.18 1017,17.24 1017,39.24 987,40.18"
+           fill="#22C55E"
+           style="animation-delay:-2.81s"/>
+
+  <polygon class="fl"
+           points="1029,16.84 1059,15.81 1059,37.81 1029,38.84"
+           fill="#FACC15"
+           style="animation-delay:-3.08s"/>
+
+  <polygon class="fl"
+           points="1071,15.37 1101,14.24 1101,36.24 1071,37.37"
+           fill="#3B82F6"
+           style="animation-delay:-3.35s"/>
+
+  <polygon class="fl"
+           points="1113,13.77 1143,12.53 1143,34.53 1113,35.77"
+           fill="#F8FAFC"
+           stroke="#CBD5E1"
+           stroke-width=".8"
+           style="animation-delay:-0.22s"/>
+
+  <polygon class="fl"
+           points="1155,12.02 1185,10.69 1185,32.69 1155,34.02"
+           fill="#EF4444"
+           style="animation-delay:-0.49s"/>
+
+</svg>
